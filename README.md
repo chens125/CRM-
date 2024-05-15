@@ -1,8 +1,9 @@
 # Client Relationship Management System
 
 ## Insipration and Overview
-- I work as a sales associate in a Kids' wearing store, I use this tool regularly to manage my client book. Note that all the data I used are not real data.
-- The Client Relationship Management System is a tool designed to extract and analyze retail sales data. This project involves data extraction, string manipulation, and advanced analysis to identify shopping preferences and customer trends. Efficient algorithms are implemented to process client datasets, facilitating data-driven decision-making and informing personalized outreach strategies.
+I work as a sales associate in a Kids' wearing store, I use this tool regularly to manage my client book. Note that all the data I used are not real data.
+
+The Client Relationship Management System is a tool designed to extract and analyze retail sales data. This project involves data extraction, string manipulation, and advanced analysis to identify shopping preferences and customer trends. Efficient algorithms are implemented to process client datasets, facilitating data-driven decision-making and informing personalized outreach strategies.
 
 - data_ext.ipynb : The notebook is written to extract, organise and export raw data.
 - example_data.csv : The output of data_ext.ipynb. The user may add more information of each cusotomer.
